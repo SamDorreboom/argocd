@@ -1,0 +1,5 @@
+apiVersion: v2
+name: apache-chart
+description: A Helm chart for Apache server
+version: 0.1.0
+appVersion: "2.4"
